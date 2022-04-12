@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EmailDevLife GitHub page
+- 👀 Here you will find reference material to help newbie Email Developers get started with Email Development.
+- 🌱 I was once a newbie myself and want to share my knowledge as a HTML Email Developer. earning ...
+- 💞️ Ivan Hurt, HTML Email Developer
